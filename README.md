@@ -22,7 +22,7 @@ You will need Python 3.x installed on your system to run this application.
 
 1. Clone the repository:
 ```
-git clone https://github.com/username/HabitTracker.git
+https://github.com/katleho-mokhele-iu/HabitTracker.git
 ```
 2. Navigate to the cloned repository:
 ```
@@ -30,7 +30,7 @@ cd HabitTracker
 ```
 3. Run the application:
 ```
-python main.py
+python habits.py
 ```
 
 ### How to Use
